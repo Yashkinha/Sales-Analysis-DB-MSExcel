@@ -23,9 +23,6 @@ Welcome to the Sales Dashboard project repository! This project focuses on analy
 - **Tools Used:** Microsoft Excel
 - **Skills Demonstrated:** Data analysis, visualization, dashboard design.
 
-## Connect with Me:
-Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/minhaj313)
-
 ## Tags:
 #DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
 
